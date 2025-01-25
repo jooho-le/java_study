@@ -1,7 +1,14 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "src",
+        "javastudy/src/chap04/c01",
+        "javastudy/src/chap03/c2",
+        "javastudy/src/chap02/c03",
+        "javastudy/src/chap04/c02"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
