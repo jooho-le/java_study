@@ -1,4 +1,3 @@
-package chap02.c03;
 
 public class StringConcatExample {
     public static void main(String[] args) {

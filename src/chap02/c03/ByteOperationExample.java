@@ -1,5 +1,3 @@
-package chap02.c03;
-
 public class ByteOperationExample {
     public static void main(String[] args) {
         byte result1 = 10 + 20;
