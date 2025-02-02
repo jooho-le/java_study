@@ -1,12 +1,15 @@
 {
     "java.project.sourcePaths": [
+        "javastudy/src/chap06/c03",
+        "javastudy/src/chap06/c02",
+        "javastudy/src/chap06/c01",
         "javastudy/src/chap05/c03",
         "javastudy/src/chap05/c02",
         "javastudy/src/chap05/c01",
         "javastudy/src/chap04/c02",
         "javastudy/src/chap04/c01",
         "javastudy/src/chap02/c03",
-        "javastudy/src/chap06/c01"
+        "javastudy/src/chap06/c04"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
