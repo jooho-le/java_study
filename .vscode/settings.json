@@ -1,8 +1,11 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ],
-    "java.debug.settings.onBuildFailureProceed": true
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Program Files\\Amazon Corretto\\jdk17.0.15_6",
+      "default": true
+    }
+  ]
 }
